@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAndLab</string>
+    <string name="btnFourbtn1">Four Button(P103, 리니어레이아웃)</string>
+    <string name="btnFourbtn2">btnFourbtn2</string>
+    <string name="four_button_p103">Four Button(p103)</string>
+    <string name="goOst">울고싶은 나는 고양이 가면을 쓴다 ost 열기</string>
+    <string name="calling11">911 응급전화 걸기</string>
+    <string name="openGallery">갤러리 열기</string>
+    <string name="back">돌아가기</string>
+</resources>
